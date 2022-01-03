@@ -1,0 +1,11 @@
+[package]
+name = "tabla_verdad_estructuras"
+description = "Evaluación de tabla de verdad. Dos variables hasta dos operaciones. La conjunción tiene prioridad sobre la disyunción."
+version = "0.1.1"
+repository = "https://github.com/Fuhrerh-Lemon/Tabla-de-la-Verdad"
+readme = "README.md"
+authors = ["Fuhrerh-Lemon"]
+edition = "2018"
+
+[dependencies]
+indexmap = "1.6.2"
